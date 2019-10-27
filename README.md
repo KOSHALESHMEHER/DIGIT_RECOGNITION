@@ -1,2 +1,2 @@
-# DIGIT_RECOGNITION
+# DIGIT_RECOGNITION_Batch_Normalisation_And_Dropout
 MNIST, handwritten digit recognition using PyTorch Dropout
